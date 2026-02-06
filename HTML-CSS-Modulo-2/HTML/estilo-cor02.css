@@ -1,0 +1,22 @@
+body {
+  background-image: linear-gradient(to left, #FF8C00, #FFA500);
+  font-family: Georgia;
+}
+
+main {
+  background-color: white; 
+  width: 400px;
+  padding: 10px;
+  margin: auto;
+}
+
+h1 {
+  color: #FF4500;
+}
+h2 {
+  color: #FF4500;
+}
+
+p {
+  text-align: justify;
+}
